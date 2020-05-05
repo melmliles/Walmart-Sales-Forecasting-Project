@@ -36,6 +36,8 @@ CPI - the consumer price index
 Unemployment - the unemployment rate  
 IsHoliday - whether the week is a special holiday week
 
+### Overview of the project steps 
+
 1. Prepare Problem  
 2. Summarize Data  
 2.a) Cleaning data  
